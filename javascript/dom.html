@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form>
+   <input type="text" id="txtId" name="txtName" class="txtClass">
+   <input type="text" id="txtId2" name="txtName" class="txtClass">
+   <button type="button" name="button" onclick="buttonClick()">Submit</button>
+	</form>
+
+</body>
+</html>
+<script type="text/javascript">
+	function buttonClick() {
+		var value3 = document.getElementsByTagName("input");
+		for(var i=0;i<value3.length;i++){
+			alert("get Value by Tagname:"+value3[i].value);
+		}
+	}
+	
+</script>

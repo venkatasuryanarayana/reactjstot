@@ -1,0 +1,32 @@
+{
+	"details":[
+		{
+			"mobilename":"honor 7A",
+			"image":"honor7a.jfif",
+			"originalprice":"15000",
+			"offerprice":"10000"
+		},
+		{
+			"mobilename":"lgg8x",
+			"image":"lgg8x.jpg",
+			"originalprice":"70000",
+			"offerprice":"18000"
+		},
+		{
+			"mobilename":"Realme5",
+			"image":"realme5.jfif",
+			"originalprice":"12500",
+			"offerprice":"10000"
+		},
+		{
+			"mobilename":"iphone 12",
+			"image":"iphone12.jfif",
+			"originalprice":"90000",
+			"offerprice":"70000"
+		}
+
+
+
+
+	]
+}
